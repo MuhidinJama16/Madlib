@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+h1 {
+   color: white;
+    border: 2px solid black;
+    border-radius: 100px; 
+    background-color: darkgreen;
+}
+
+h2 {
+    color: white;
+}
+
+.para {
+    color: white;
+}
+
+.graph {
+    color: white;
+    margin-top: -12px;
+}
+
+hr {
+    color: white;
+}
+
+img {
+    width: 300px;
+}
+
+.block1 {
+    background-color: rgb(100,200,50);
+    padding: 1px 10px
+}
+
+.block2 {
+    background-color: burlywood;
+    
+    
+}
+
+.blocky {
+    text-align: left;
+line-height: 80px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.blocker {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blocki {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 60px;
+}
+
+input {
+    font-size: 14px;
+}
+
+
+
+
+.block3 {
+    background-color: azure;
+
+}
+
+.madlib-box {
+    margin-top: 
+    border: 1px;
+    border-style: solid;
+text-align: center;
+background-color: blue;
+
+}
+
+.blockborder {
+    border-width: 5px;
+    border-style: dotted;
+    background-color: azure;
+}
+
+/* You may add additional selector rules below as needed */
